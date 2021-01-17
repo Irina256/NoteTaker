@@ -32,7 +32,7 @@ router.post("/notes", (req, res) => {
 });
 
 router.delete("/notes/:id", (req, res) => {
-  const result = findById(req.params.id, notes);
+  const result = findNoteById(req.params.id, notes);
 
   deleteNote(result, notes);
   res.json();

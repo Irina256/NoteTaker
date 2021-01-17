@@ -29,4 +29,4 @@
 
 ![Notes](./Develop/public/assets/images/NoteTaker.png)
 
-[Deployed Notes]()
+[Deployed Notes](https://shrouded-depths-67609.herokuapp.com/)
